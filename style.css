@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body {
+    padding-top: 5rem;
+}
+
+.spacer {
+    height: 5rem;
+}
+
+.product-combined {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.rounded-image {
+    border-radius: 10px;
+}
+
+.btn.btn-dark {
+    background-color:#393B3C;
+    text-align: center;
+    margin-top: 10px;
+    font-family: "Poppins", sans-serif;
+    font-size: small;
+}
+
+.btn.btn-dark:hover {
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    color: #393B3C;
+    margin-top: 10px;
+    font-family: "Poppins", sans-serif;
+    font-size: small;
+}
+
+.homeHeading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.homeSlogan {
+    font-style: italic;
+    text-align: center;
+    font-size: smaller;
+    margin-bottom: 150px;
+}
+
+.productcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #393B3C;
+    height: 80px;
+}
+
+.navbar-brand {
+    padding-left: 100px;
+}
+
+.collapse.navbar-collapse {
+    padding-right: 100px;
+}
+
+.nav-item.nav-link.active {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}

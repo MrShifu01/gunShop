@@ -17,6 +17,18 @@ body {
     border-radius: 10px;
 }
 
+.rounded-image:hover {
+    opacity: 0.5;
+}
+
+.product-price {
+    text-align: center;
+    margin-top: 7px;
+    font-weight: bolder;
+    font-family: "Roboto";
+
+}
+
 .btn.btn-dark {
     background-color:#393B3C;
     text-align: center;
@@ -71,4 +83,21 @@ body {
 .nav-item.nav-link.active {
     background-color: rgba(255, 255, 255, 0.1);
     color: #fff;
+}
+
+#footer {
+    margin-bottom: 100px;
+}
+
+#footerheader {
+    text-align: center;
+}
+
+.contactform {
+    text-align: center;
+    justify-content: center;
+}
+
+#footerlogo {
+    margin-right: 30px;
 }

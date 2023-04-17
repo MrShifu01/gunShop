@@ -99,5 +99,21 @@ body {
 }
 
 #footerlogo {
-    margin-right: 30px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.contactform label {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.contactform .form-control {
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.contactform .btn {
+    margin-bottom: 8px;
+    margin-left: 30px;
 }
